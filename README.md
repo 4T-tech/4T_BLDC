@@ -2,7 +2,7 @@
 
 无刷电机控制板相关资料
 
-<img src="%5B4%5D图片/4T_FOC.png" alt="4T_FOC.png" width="100%">
+<img src="%5B4%5D图片/4T_FOC.png" alt="4T_FOC.png" width="120%">
 
 
 ## 文件结构
